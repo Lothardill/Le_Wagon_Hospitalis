@@ -45,6 +45,7 @@ Un **pipeline de données** modulaire en Python :
 
 ## 📂 Structure du projet
 
+hospitalis-rfid/
 ├─ README.md
 ├─ src/hospitalis/ # code source
 │ ├─ init.py
