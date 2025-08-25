@@ -40,3 +40,17 @@ Un **pipeline de données** modulaire en Python :
 
 5. **Export**  
    - Résultats stockés en `data/processed` pour reporting ou intégration BI.
+
+---
+
+## 📂 Structure du projet
+
+├─ README.md
+├─ src/hospitalis/ # code source
+│ ├─ init.py
+│ ├─ config.py
+│ ├─ io.py
+│ ├─ cleaning.py
+│ ├─ pricing.py
+│ ├─ rfid_selection.py
+│ └─ pipeline.py
