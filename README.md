@@ -45,13 +45,13 @@ Un **pipeline de données** modulaire en Python :
 
 ## 📂 Structure du projet
 
-hospitalis-rfid/
+```hospitalis-rfid/
 ├─ README.md
-├─ src/hospitalis/ # code source
-│ ├─ init.py
-│ ├─ config.py
-│ ├─ io.py
-│ ├─ cleaning.py
-│ ├─ pricing.py
-│ ├─ rfid_selection.py
-│ └─ pipeline.py
+├─ src/hospitalis/   # code source
+│  ├─ __init__.py
+│  ├─ config.py
+│  ├─ io.py
+│  ├─ cleaning.py
+│  ├─ pricing.py
+│  ├─ rfid_selection.py
+│  └─ pipeline.py```
