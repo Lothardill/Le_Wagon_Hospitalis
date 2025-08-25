@@ -54,4 +54,4 @@ Un **pipeline de données** modulaire en Python :
 │  ├─ cleaning.py
 │  ├─ pricing.py
 │  ├─ rfid_selection.py
-│  └─ pipeline.py```
+│  └─ pipeline.py
